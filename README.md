@@ -12,7 +12,7 @@ The base image for debian-based dockers. Provides some common setup for running 
     - One-time initialization script
     - Startup script for multiple services
     - Shutdown script for graceful shutdown
-    - Sigterm shutdown support (on `Ctrl+C`, `docker kill`, etc)
+    - Sigterm shutdown support (on `Ctrl+C`, `docker stop`, etc)
     
 ## How to use
 
