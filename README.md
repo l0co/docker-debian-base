@@ -1,6 +1,6 @@
 # Debian-base docker
 
-The base image for debian-based dockers ([see on docker hub](https://hub.docker.com/r/l0coful/debian-base/)). Provides some common setup for running services in docker containers.
+The base image for debian-based dockers. Provides some common setup for running services in docker containers.
 
 ## Features
 
